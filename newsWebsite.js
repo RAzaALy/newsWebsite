@@ -9,7 +9,7 @@ const config = {
   method: "GET",
   headers: {
     Accept: "application/json",
-    "x-rapidapi-key": "c9063559acmshf7d49bc6e683824p1fca9cjsn938e1a377dfb",
+    "x-rapidapi-key": "yourapikey",
     "x-rapidapi-host": "contextualwebsearch-websearch-v1.p.rapidapi.com",
   },
 };
